@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Burp Suite Professional
+Exec="/home/kali/tools/BurpSuitePro/BurpSuitePro" %U
+MimeType=application/x-extension-burp;
+Icon=/home/kali/tools/BurpSuitePro/.install4j/BurpSuitePro.png
+Categories=Application;
+StartupWMClass=install4j-burp-StartBurp
+X-XFCE-Source=file:///home/kali/.local/share/applications/install4j_1vd7cfu-BurpSuitePro.desktop
