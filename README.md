@@ -24,8 +24,8 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io
 # copy dotfiles into $HOME
 cp -r . ~/
 
+# .vimrc should go under /root/.vimrc as well
+
 # maybe?
 sudo apt install -y kali-desktop-gnome
-
-
 
